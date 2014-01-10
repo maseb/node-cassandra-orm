@@ -4,7 +4,10 @@
 	"author": "rolandpoulter",
 	"license": "",
 	"version": "0.0.12",
-	"repository": "",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/nebula/node-cassandra-orm.git"
+	},
 	"description": "",
 	"dependencies": {
 		"clss": "0.0.1",
